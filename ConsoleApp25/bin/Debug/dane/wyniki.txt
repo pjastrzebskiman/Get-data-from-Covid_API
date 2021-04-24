@@ -1,0 +1,248 @@
+Turkey 441992
+Poland 439096
+Germany 299166
+Czech Republic 298904
+India 276850
+Iran, Islamic Republic of 224208
+Indonesia 205627
+Argentina 197595
+Jordan 164545
+Canada 137276
+Iraq 123629
+Romania 110320
+Brazil 95699
+Israel 86481
+Hungary 85807
+Lebanon 79097
+Austria 70701
+Philippines 69475
+United Arab Emirates 64130
+Colombia 61993
+Portugal 59233
+Malaysia 56207
+Bulgaria 54016
+Palestinian Territory 48493
+Bangladesh 45175
+South Africa 44060
+Paraguay 42179
+Moldova 41674
+Kuwait 37371
+Chile 36226
+Belarus 34325
+Ecuador 33786
+Uruguay 33341
+Saint Vincent and Grenadines 32306
+Estonia 31951
+Kazakhstan 28494
+Bolivia 28303
+Libya 26907
+Uganda 25783
+Cuba 25372
+Slovenia 23314
+Ethiopia 23251
+Albania 21498
+Dominican Republic 20818
+Bahrain 20226
+Croatia 20145
+Tunisia 19287
+Russian Federation 19270
+Latvia 18376
+Nigeria 17880
+Panama 17691
+Montenegro 17272
+Macedonia, Republic of 15746
+Costa Rica 15600
+Mozambique 15313
+Guatemala 15102
+Republic of Kosovo 14746
+Bosnia and Herzegovina 14645
+Morocco 14317
+Lithuania 14238
+Egypt 13802
+Botswana 13714
+Oman 11507
+Malawi 11398
+Ghana 10932
+Qatar 10500
+Sri Lanka 10304
+Zambia 10094
+Saudi Arabia 9778
+Armenia 9670
+Azerbaijan 9357
+Senegal 8427
+Malta 8365
+Georgia 8053
+El Salvador 6328
+Honduras 6197
+Ukraine 6141
+Kenya 6001
+Luxembourg 5605
+Namibia 5587
+South Sudan 5451
+Jamaica 4188
+United Kingdom 4150
+Maldives 3906
+Gabon 3466
+Algeria 3440
+Rwanda 2869
+Mongolia 2671
+Cameroon 2667
+Madagascar 2612
+Uzbekistan 2541
+Nepal 2379
+Afghanistan 2217
+Benin 2204
+Togo 2155
+Zimbabwe 2020
+Swaziland 1852
+Thailand 1745
+Guinea 1722
+Kyrgyzstan 1630
+Cape Verde 1463
+Seychelles 1458
+Haiti 1331
+Sudan 1307
+Bahamas 1288
+Angola 1171
+Saint Lucia 1129
+Guyana 1126
+Barbados 1050
+Somalia 1011
+Gambia 981
+Burkina Faso 892
+Equatorial Guinea 873
+San Marino 871
+Andorra 869
+Eritrea 776
+Sao Tome and Principe 737
+Lesotho 726
+Cambodia 714
+Chad 665
+Djibouti 563
+Mauritania 530
+Antigua and Barbuda 519
+Viet Nam 483
+Mali 428
+Monaco 405
+Guinea-Bissau 359
+Niger 340
+Singapore 326
+Myanmar 320
+Belize 254
+Yemen 241
+Comoros 211
+Sierra Leone 191
+Suriname 188
+Trinidad and Tobago 149
+New Zealand 114
+Timor-Leste 99
+Liechtenstein 84
+Mauritius 72
+Taiwan, Republic of China 62
+Iceland 52
+Central African Republic 37
+Dominica 26
+Liberia 15
+Brunei Darussalam 13
+Fiji 10
+Grenada 5
+Bhutan 4
+Solomon Islands 4
+Saint Kitts and Nevis 3
+Lao PDR 3
+Cyprus 0
+Venezuela (Bolivarian Republic) 0
+Puerto Rico 0
+Finland 0
+Bouvet Island 0
+Turkmenistan 0
+Congo (Kinshasa) 0
+Niue 0
+Sweden 0
+Nicaragua 0
+Korea (South) 0
+Anguilla 0
+Faroe Islands 0
+Heard and Mcdonald Islands 0
+Papua New Guinea 0
+Netherlands 0
+ALA Aland Islands 0
+Korea (North) 0
+Guadeloupe 0
+US Minor Outlying Islands 0
+Pitcairn 0
+French Guiana 0
+Bermuda 0
+Western Sahara 0
+Slovakia 0
+Mayotte 0
+Macao, SAR China 0
+Tokelau 0
+Palau 0
+Christmas Island 0
+Serbia 0
+Norfolk Island 0
+Isle of Man 0
+Tuvalu 0
+Peru 0
+Nauru 0
+Guam 0
+Syrian Arab Republic (Syria) 0
+Turks and Caicos Islands 0
+Tanzania, United Republic of 0
+Hong Kong, SAR China 0
+Gibraltar 0
+Jersey 0
+Virgin Islands, US 0
+Burundi 0
+Samoa 0
+Marshall Islands 0
+Mexico 0
+American Samoa 0
+Norway 0
+Tajikistan 0
+British Virgin Islands 0
+British Indian Ocean Territory 0
+Switzerland 0
+Northern Mariana Islands 0
+France 0
+Montserrat 0
+Congo (Brazzaville) 0
+Belgium 0
+Cook Islands 0
+Saint-Barthélemy 0
+Côte d'Ivoire 0
+Svalbard and Jan Mayen Islands 0
+Ireland 0
+United States of America 0
+Cayman Islands 0
+Greece 0
+New Caledonia 0
+Vanuatu 0
+Réunion 0
+Tonga 0
+Netherlands Antilles 0
+Saint Helena 0
+Saint-Martin (French part) 0
+Holy See (Vatican City State) 0
+Micronesia, Federated States of 0
+Saint Pierre and Miquelon 0
+Falkland Islands (Malvinas) 0
+South Georgia and the South Sandwich Islands 0
+Antarctica 0
+Kiribati 0
+Guernsey 0
+Greenland 0
+Cocos (Keeling) Islands 0
+Aruba 0
+Wallis and Futuna Islands 0
+Martinique 0
+French Southern Territories 0
+French Polynesia 0
+China -244
+Japan -547
+Australia -19530
+Spain -37629
+Italy -55168
+Denmark -202150
+Pakistan -222390

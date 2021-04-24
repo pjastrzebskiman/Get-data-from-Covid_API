@@ -1,0 +1,12 @@
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe.config
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.pdb
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\RestSharp.dll
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\RestSharp.xml
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.csproj.CopyComplete
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.exe
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.pdb
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Piotr\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.csprojAssemblyReference.cache
